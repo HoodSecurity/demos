@@ -3,21 +3,6 @@
 
 Willkommen im **Demos Repository**! Hier findest du eine Sammlung von Projekten und Beispielen, die ich in meinen Livestreams erstellt habe. Die Projekte sind nach Programmiersprachen organisiert, um die Navigation zu erleichtern.
 
-## Struktur
-
-Die Struktur des Repositories sieht wie folgt aus:
-
-```
-demos/
-├── Python/
-│   ├── NMAP/
-│   │   ├── nmap_scanner.py
-│   │   └── README.md
-├── Javascript/
-├── C/
-├── C++/
-```
-
 ### Ordnerbeschreibung
 
 - **Python**: Enthält Projekte, die mit Python erstellt wurden.
@@ -29,6 +14,8 @@ demos/
 
 - **[Python](https://github.com/HoodSecurity/demos/tree/main/Python/)**:
   - **[NMAP](https://github.com/HoodSecurity/demos/tree/main/Python/Nmap)**: Ein einfacher Port-Scanner, der offene Ports erkennt und Services via Banner Grabbing identifiziert.
+  - **[Proxy](https://github.com/HoodSecurity/demos/tree/main/Python/Proxy)**: Ein einfacher Proxy der Webanfragen abfangen soll. Beachte dass dein Browser auf den Proxy angepasst werden muss. IN PROGRESS !!!
+  - **[Peer2Peer Data Transfer](https://github.com/HoodSecurity/demos/tree/main/Python/P2P)**: Eine einfache P2P Implementierung via Python. IN PROGRESS !!! Encryption und Co wird folgen.
 
 Ich werde dieses Repository regelmäßig mit neuen Projekten aus meinen Livestreams aktualisieren. Schau also gerne öfter vorbei!
 
