@@ -27,8 +27,8 @@ demos/
 
 ## Aktuelle Projekte
 
-- **[Python](Python/)**:
-  - **[NMAP](Python/NMAP/)**: Ein einfacher Port-Scanner, der offene Ports erkennt und Services via Banner Grabbing identifiziert.
+- **[Python](https://github.com/HoodSecurity/demos/tree/main/Python/)**:
+  - **[NMAP](https://github.com/HoodSecurity/demos/tree/main/Python/Nmap)**: Ein einfacher Port-Scanner, der offene Ports erkennt und Services via Banner Grabbing identifiziert.
 
 Ich werde dieses Repository regelmäßig mit neuen Projekten aus meinen Livestreams aktualisieren. Schau also gerne öfter vorbei!
 
